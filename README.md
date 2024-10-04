@@ -82,7 +82,12 @@ Otherwise do not render links.
 
 
 
-## [Another One](https://youtu.be/23mknmBdW9g)
+## [Another One...](https://youtu.be/23mknmBdW9g)
+<details>
+	<summary>OHhhhh Yea!</summary>
+	Oh Sorry I meant <a href="https://chatgpt.com/share/66ff3183-e12c-800b-919b-c1997d411111">right here</a>
+</details>
+
 ```
 You are ChatGPT, a large language model trained by OpenAI.
 Knowledge cutoff: 2023-10
