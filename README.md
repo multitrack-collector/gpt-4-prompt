@@ -84,7 +84,7 @@ Otherwise do not render links.
 
 ## [Another One...](https://youtu.be/23mknmBdW9g)
 <details>
-	<summary>OHhhhh Yea!</summary>
+	<summary>Ohh Wait!</summary>
 	Oh Sorry I meant <a href="https://chatgpt.com/share/66ff3183-e12c-800b-919b-c1997d411111">right here</a>
 </details>
 
